@@ -1,0 +1,11 @@
+﻿  laba 9.2 B.cpp
+C:\Users\ACER\source\repos\laba 9.2 B\laba 9.2 B\laba 9.2 B.cpp(1,1): error C2059: syntax error: '>'
+C:\Users\ACER\source\repos\laba 9.2 B\laba 9.2 B\laba 9.2 B.cpp(143,5): error C2059: syntax error: '>'
+C:\Users\ACER\source\repos\laba 9.2 B\laba 9.2 B\laba 9.2 B.cpp(145,5): error C2143: syntax error: missing ';' before '{'
+C:\Users\ACER\source\repos\laba 9.2 B\laba 9.2 B\laba 9.2 B.cpp(146,5): error C2046: illegal case
+C:\Users\ACER\source\repos\laba 9.2 B\laba 9.2 B\laba 9.2 B.cpp(149,5): error C2046: illegal case
+C:\Users\ACER\source\repos\laba 9.2 B\laba 9.2 B\laba 9.2 B.cpp(152,5): error C2046: illegal case
+C:\Users\ACER\source\repos\laba 9.2 B\laba 9.2 B\laba 9.2 B.cpp(153,5): error C2046: illegal case
+C:\Users\ACER\source\repos\laba 9.2 B\laba 9.2 B\laba 9.2 B.cpp(154,5): error C2046: illegal case
+C:\Users\ACER\source\repos\laba 9.2 B\laba 9.2 B\laba 9.2 B.cpp(172,32): error C2064: term does not evaluate to a function taking 1 arguments
+C:\Users\ACER\source\repos\laba 9.2 B\laba 9.2 B\laba 9.2 B.cpp(191,29): error C2064: term does not evaluate to a function taking 1 arguments
